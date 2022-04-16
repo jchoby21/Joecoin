@@ -1,0 +1,9 @@
+Building Joecoin
+
+See doc/readme-qt.rst for instructions on building Joecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Joecoin.
+
+See doc/build-*.txt for instructions on building joecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Joecoin.
